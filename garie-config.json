@@ -11,7 +11,7 @@
 			]
 		},
 		{
-			"url": "https://www.somosbluex.cl/tuenvio/",
+			"url": "https://www.somosbluex.cl/tuenvio",
 			"plugins": [
 				{
 					"name": "lighthouse",
@@ -20,7 +20,7 @@
 			]
 		},
 		{
-			"url": "https://www.nectia.com/",
+			"url": "https://www.nectia.com",
 			"plugins": [
 				{
 					"name": "lighthouse",
@@ -29,7 +29,7 @@
 			]
 		},
 		{
-			"url": "https://autoplaza.cl/",
+			"url": "https://autoplaza.cl",
 			"plugins": [
 				{
 					"name": "lighthouse",
@@ -38,7 +38,7 @@
 			]
 		},
 		{
-			"url": "https://www.factoringsecurity.cl/plataforma-online-de-factoring-electronico/",
+			"url": "https://www.factoringsecurity.cl/plataforma-online-de-factoring-electronico",
 			"plugins": [
 				{
 					"name": "lighthouse",
