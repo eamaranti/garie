@@ -18,6 +18,33 @@
 					"report": true
 				}
 			]
+		},
+		{
+			"url": "https://www.nectia.com/",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://autoplaza.cl/",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.factoringsecurity.cl/plataforma-online-de-factoring-electronico/",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
 		}
 	]
 }
