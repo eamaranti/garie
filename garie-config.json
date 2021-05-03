@@ -42,7 +42,7 @@
 			"plugins": [
 				{
 					"name": "lighthouse",
-					"report": true
+					"report": false
 				}
 			]
 		}
