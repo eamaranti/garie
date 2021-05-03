@@ -9,6 +9,15 @@
 					"report": true
 				}
 			]
+		},
+		{
+			"url": "https://www.somosbluex.cl/tuenvio/",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
 		}
 	]
 }
