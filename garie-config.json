@@ -20,15 +20,6 @@
 			]
 		},
 		{
-			"url": "https://www.nectia.com",
-			"plugins": [
-				{
-					"name": "lighthouse",
-					"report": true
-				}
-			]
-		},
-		{
 			"url": "https://autoplaza.cl",
 			"plugins": [
 				{
@@ -43,6 +34,15 @@
 				{
 					"name": "lighthouse",
 					"report": false
+				}
+			]
+		},
+		{
+			"url": "https://www.nectia.net",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
 				}
 			]
 		}
